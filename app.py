@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import sns_custom_or_seaborn as sns
 import seaborn as sns
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 from sklearn.preprocessing import LabelEncoder
